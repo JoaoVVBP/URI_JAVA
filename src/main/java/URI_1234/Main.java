@@ -6,7 +6,6 @@ import java.util.Scanner;
 public class Main {
 
     //URI1234
-
     //Um pouco ineficiente
 
     public static void main(String[] args) throws IOException {
