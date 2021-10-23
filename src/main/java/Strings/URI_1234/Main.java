@@ -1,4 +1,4 @@
-package URI_1234;
+package Strings.URI_1234;
 
 import java.io.IOException;
 import java.util.Scanner;

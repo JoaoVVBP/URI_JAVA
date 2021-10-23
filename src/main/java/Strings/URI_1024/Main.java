@@ -1,7 +1,6 @@
-package URI_1024;
+package Strings.URI_1024;
 
 import java.io.IOException;
-import java.util.LinkedList;
 import java.util.Scanner;
 
 //PROBLEM	ANSWER	LANGUAGE	TIME	DATE
